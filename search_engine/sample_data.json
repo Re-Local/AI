@@ -1,0 +1,20 @@
+[
+    {
+        "name": "서울 타워 투어",
+        "tags": ["서울", "야경", "관광"],
+        "price": 15000,
+        "has_english": true
+    },
+    {
+        "name": "전통 한식 요리 클래스",
+        "tags": ["요리", "한식", "문화체험"],
+        "price": 30000,
+        "has_english": false
+    },
+    {
+        "name": "한강 자전거 투어",
+        "tags": ["한강", "자전거", "액티비티"],
+        "price": 10000,
+        "has_english": true
+    }
+]
